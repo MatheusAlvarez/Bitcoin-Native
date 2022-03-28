@@ -18,7 +18,6 @@ Criação do nosso projeto/estrutura do nosso app
 Implementação lógica, consumo de APIs, datas, filtros e implementação de gráficos.
 
 # Conteúdo utilizado:
-
 - Consumo de APIs
 - Utilização de gráficos no React Native
 - Gerenciamento de States por componente Externo
