@@ -25,7 +25,6 @@ Implementação lógica, consumo de APIs, datas, filtros e implementação de gr
 - Filtros
 - Ciclo de vida dos componentes
 
-
 # Autor
 Matheus Maia Alvarez
 
