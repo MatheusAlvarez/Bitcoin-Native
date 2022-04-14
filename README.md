@@ -1,32 +1,32 @@
 # Bitcoin-Native
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusAlvarez/Bitcoin-Native/blob/main/LICENSE) 
 
-# Sobre o projeto
-Primeiro aplicativo desenvolvido em React Native. O aplicativo tem como objetivo trazer as últimas cotações do Bitcoin 
+# About the Project
+First app developed in React Native. The application aims to bring the latest Bitcoin quotes
 
-## Layout mobile
+## 📌 Layout mobile
 ![Mobile 1](https://github.com/MatheusAlvarez/Bitcoin-Native/blob/main/assets/mobile1.png)
 
-# Tecnologia utilizada
+# 📌 Technology used
 - React Native
 
-#  Planejamento
-1º Etapa:
-Criação do nosso projeto/estrutura do nosso app
+#  🧠 Planning
+1º Stage:
+Creation of our project/structure of our app
 
-2º Etapa:
-Implementação lógica, consumo de APIs, datas, filtros e implementação de gráficos.
+2º Stage:
+Logical implementation, consumption, data, filters and graphics implementation.
 
-# Conteúdo utilizado:
-- Consumo de APIs
-- Utilização de gráficos no React Native
-- Gerenciamento de States por componente Externo
-- Datas
-- Filtros
-- Ciclo de vida dos componentes
+# 📌 Content used:
+- API consumption
+- Using graphics in React Native
+- Management of States by External component
+- Dates
+- Filters
+- Component life cycle
 
 
-# Autor
-Matheus Maia Alvarez
+# 🕴️ Author
+   👨‍💻Matheus Maia Alvarez
 
 https://br.linkedin.com/in/matheus-maia-alvarez-
