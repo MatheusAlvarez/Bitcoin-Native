@@ -18,7 +18,7 @@ Chega mais, galera! Tô super animado pra mostrar meu primeiro projeto em React 
 
 ---
 
-#  🧠 Planejamento
+##  🧠 Planejamento
 
 1º Etapa:
 Criação do nosso projeto/estrutura do nosso app
